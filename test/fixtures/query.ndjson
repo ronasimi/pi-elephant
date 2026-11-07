@@ -1,0 +1,2 @@
+{"item":{"identifier":"example.desktop","text":"Example App","subtext":"Example utility","icon":"ignored","provider":"desktopapplications","score":1000000,"fuzzyinfo":{"field":"text"},"state":["pinned"],"actions":["start","edit","unpin"],"preview":"NEVER RETURN PREVIEW"},"qid":3}
+{"item":{"identifier":"second.desktop","text":"Second App","provider":"desktopapplications","actions":["start"]},"qid":3}
